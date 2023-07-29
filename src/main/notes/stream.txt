@@ -1,0 +1,41 @@
+Dish Operations
+************************************
+1. Create a vegetarian menu by filtering all vegetarian dishes
+2. Selecting the first three dishes that have more than 300 calories
+3. Skipping the first two dishes that have more than 300 calories
+4. How to get list of dishes names from List of Dish
+5. What if you wanted to find out the length of the name of each dish?
+6. Total number of calories in all the dishes
+7. Find out whether the menu has a vegetarian option
+8. Find out whether the menu is healthy (that is, all dishes are below 1000 calories)
+9. You may wish to find a dish that’s vegetarian
+----------------------------------------------------------------------------------
+Number Operations
+**********************
+1. Filter all even numbers from a list and makes sure that there are no duplicates
+2. given a list of numbers, finds the  squares that’s divisible by 3
+3. given a list of numbers, finds the first square that’s divisible by 3:
+
+
+-------------------------------------------------------------------------
+String Operations
+****************************
+
+1. Given a list of words, you’d like to return a list of the number of characters for each word.
+----------------------------------------------------------------------
+Quizes
+*****************************
+Quiz 1:  How would you use streams to filter the first two meat dishes?
+Quiz 2: Given a list of numbers, how would you return a list of the square of each number?
+Quiz 3: Given two lists of numbers, how would you return all pairs of numbers?
+Quiz 4: . How would you extend the previous example to return only pairs whose sum is divisible by 3?
+---------------------------------------------------------------------------------------------------------
+
+flatMap Examples
+****************************************************
+1. Combine these three lists into single list using flatMap.
+
+List<String> productlist1 = Arrays.asList("Printer", "Mouse", "Keyboard", "Motherboard");
+List<String>  productlist2 = Arrays.asList("Scanner", "Projector", "Light Pen");
+List<String> productlist3 = Arrays.asList("Pen Drive", "Charger", "WIFI Adapter", "Cooling Fan");
+List<String> productlist4 = Arrays.asList("CPU Cabinet", "WebCam", "USB Light", "Microphone", "Power cable");
